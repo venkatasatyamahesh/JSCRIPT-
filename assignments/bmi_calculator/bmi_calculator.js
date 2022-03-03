@@ -1,4 +1,4 @@
-// This function should return the BMI for a person 
+
 function BMICalculator(mass, height) {
     let massOfPerson = mass;
     let heightOfPerson = height;
