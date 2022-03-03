@@ -1,11 +1,4 @@
 function CreateObject(arr) {
-    if (operation === "add"){
-        movies.push(movie);
-        return movies;
-    }
-    else if(operation === "remove"){
-        movies.pop();
-        return movies;
-    }
+    //Enter your code here
 };
 //module.exports = CreateObject;
