@@ -1,5 +1,4 @@
 function CreateObject(arr) {
-    // Write your code here
-}
-
-module.exports = CreateObject;
+    //Enter your code here
+};
+//module.exports = CreateObject;
