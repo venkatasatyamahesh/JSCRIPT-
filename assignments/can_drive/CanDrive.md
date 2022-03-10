@@ -3,7 +3,7 @@
 ## Given set of three inputs, you should determine if you should be allowed to drive or not
 
 Factors to check (inputs provided are in the same order)
-* You have driving liscence
+* You have driving liscence# 
 * You are tired
 * You are sober
 
@@ -21,7 +21,7 @@ If you are not tired and you are sober - "You can drive"
 
 ```bash
 Input - false, false, true
-Output - "You cannot drive"
+Output - "You cannot drive"    
 
 Input - true, false, true
 Output - "You can drive"
