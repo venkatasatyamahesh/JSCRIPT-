@@ -44,7 +44,7 @@ document.querySelector('button').onclick=function(){
     counter++;
     const currentTasks = document.querySelectorAll('p');
     for (let i=0;i<currentTasks.length;i++){
-        currentTasks[i].onclick=function(){
+        currentTasks[i].onmouseover=function(){
                 this.remove();
 
 }
